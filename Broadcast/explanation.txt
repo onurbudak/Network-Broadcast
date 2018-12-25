@@ -1,0 +1,12 @@
+Explanation
+
+In this project, we made the sound and video broadcast. 
+Here we have seen the implementation of socket structures. 
+We've done the thread event for multiple clients. 
+In order to run the project, we pay attention to be on the same port and on the same network. 
+However, we are launching the server program. 
+After the server has been run, 
+the client will learn the IP address of the computer running the server and 
+write to the required part in the client.
+
+Prepared by Onur Budak.
