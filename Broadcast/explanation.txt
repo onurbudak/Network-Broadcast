@@ -9,4 +9,4 @@ After the server has been run,
 the client will learn the IP address of the computer running the server and 
 write to the required part in the client.
 
-Prepared by Onur Budak.
+Developer by Onur Budak.
